@@ -1,0 +1,13 @@
+{
+  "_note": "Approximate interatrial-septum region per patient video (ellipse, 224px coords), placed by eye for the demo. Replace with cardiologist annotations.",
+  "ASD1": {"cx": 100, "cy": 170, "a": 20, "b": 28},
+  "ASD2": {"cx": 114, "cy": 172, "a": 20, "b": 28},
+  "ASD3": {"cx": 113, "cy": 172, "a": 20, "b": 28},
+  "ASD4": {"cx": 102, "cy": 158, "a": 20, "b": 32},
+  "ASD5": {"cx": 106, "cy": 172, "a": 20, "b": 28},
+  "NORM1": {"cx": 104, "cy": 172, "a": 20, "b": 28},
+  "NORM2": {"cx": 118, "cy": 172, "a": 20, "b": 28},
+  "NORM3": {"cx": 110, "cy": 170, "a": 20, "b": 28},
+  "NORM4": {"cx": 109, "cy": 172, "a": 20, "b": 28},
+  "NORM5": {"cx": 106, "cy": 172, "a": 20, "b": 28}
+}
